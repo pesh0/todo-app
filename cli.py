@@ -1,4 +1,4 @@
-from modules.functions import get_todos, write_todos
+from functions import get_todos, write_todos
 import time
 
 print("It is "+time.strftime("%x %H:%M:%S"))
